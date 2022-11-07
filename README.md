@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RebecaAlcon, tenho 35 anos, sou divorciada e tenho 1 filho de 8 anos. me formei recetemente em  Tecnologia e Análise em Desenvolvimento de Sistemas. 
-- 👀 I’m interessada em trabalhar com desenvolvimento e pesquisar em banco de dados e desenvolvimento de sistemas. 
-- 🌱 I’m currently learning como desenvolver melhor meus conhecimentos em banco de dados, desenvolvimento  em JAVA e desenvolvimento web.
-- 💞️ I’m looking to collaborate com desenvolvimento de sistemas e também e desenvolvimento de banco de dados.
-- 📫 Caso queira contato comigo, pode me mandar um e-mail para rebecalcon@hotmail.com ou entrar em contato comigo através através do número +55 1194147/1739.
+- 👋 Hi, I’m @RebecaAlcon, I am 35 years old, I am divorced. I recently graduated in Technology and Analysis in Systems Development.
+- 👀 I’m  interested in working with database development and research and systems development.
+- 🌱 I’m currently learning how to better develop my knowledge in database, JAVA development and web development.
+- 💞️ I’m looking to collaborate with systems development and database development.
+- 📫 If you want to contact me, you can send me an email to rebecalcon@hotmail.com or contact me through the number +55 1194147/1739.
 
 <!---
 RebecaAlcon/RebecaAlcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
